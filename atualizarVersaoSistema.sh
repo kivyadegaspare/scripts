@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Criado por Kivya Pottechi
 WILDFLY_STANDALONE=/usr/wildfly/standalone
 CHINCHILA_CLIENT_DIR=$WILDFLY_STANDALONE/chinchila-client
 CHINCHILA_PDV_DIR=$WILDFLY_STANDALONE/chinchila-pdv
