@@ -27,7 +27,7 @@ if [ $UID -eq 0 ]; then
 fi
 
 # Solicitar o link do pacote
-msg "Insira o link do pacote de atualização:"
+msg "Insira o link do pacote de atualização(linha mirror1 em http://update.a7.net.br/atualizacoes.xml):"
 read -p "Link: " package_link
 
 # Baixar o pacote
